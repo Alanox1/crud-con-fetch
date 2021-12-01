@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "name": "Lionel Messi",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "address": {
+        "city": "Gwenborough"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "phone": "010-692-6593 x09125"
+    },
+    {
+      "id": 3,
+      "name": "Kylian Mbappe",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "phone": "59590-4157"
+    },
+    {
+      "id": 4,
+      "name": "Neymar JR",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "phone": "493-170-9623 x156"
+    },
+    {
+      "id": 5,
+      "name": "Wayne Rooney",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "phone": "(254)954-1289"
+    },
+    {
+      "id": 6,
+      "name": "Carlos Tevez",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "phone": "1-477-935-8478 x6430"
+    },
+    {
+      "id": 7,
+      "name": "Lautaro Martinez",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "phone": "210.067.6132"
+    },
+    {
+      "id": 8,
+      "name": "Kevin de Bruyne",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "586.493.6943 x140"
+    },
+    {
+      "id": 9,
+      "name": "Clementine Stanton",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "phone": "(775)976-6794 x41206"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "phone": "024-648-3804"
+    },
+    {
+      "id": 11,
+      "name": "Erling Halland",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "phone": "024-648-3804"
+    }
+  ]
+}

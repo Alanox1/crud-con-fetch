@@ -1,0 +1,101 @@
+
+/*Css para los datos y usuarios*/
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: beige;
+}
+.title{
+    color: blue;
+}
+h2{
+    text-align: center;
+}
+#myInput {
+    background-size: 20px;
+    background-image: url('archivos/search.png');
+    background-position: 10px 12px; 
+    background-repeat: no-repeat;
+    width: 80%; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    border: 1px solid #ddd; 
+    margin-bottom: 12px; 
+    border: 2px solid black;
+  }
+
+  td{
+      font-size: 30px;
+      border-bottom: 1px solid black;
+      margin-left: 10px;
+      padding: 8px;
+  }
+
+  thead{
+      font-size: 20px;
+      /* color: rgb(5, 69, 133); */
+      color: rgb(22, 22, 209);
+  }
+.crud-table{
+  border-collapse: collapse;
+  width: 100%; 
+  border: 1px solid rgb(187, 182, 182); 
+  font-size: 18px; 
+}
+
+th{
+    border: 1px solid black;
+}
+.container{
+    width: 97%;
+    margin: 0px auto;
+}
+.ordenar,
+.desordenar{
+    padding: 10px 10px;
+}
+
+.edit,
+.delete{
+    background-color: rgb(223, 137, 25);
+    color: black;
+    border: none;
+    padding: 10px 12px;
+    margin: 0px auto;
+    width: 80%;
+    margin-left: 20px;
+    transition: all .6s;
+ 
+}
+.edit:hover,
+.delete:hover{
+    color: white;
+}
+
+.esconder-form{
+    display: none;
+}
+
+.crud-form{
+    margin: 0px auto;
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+}
+.crud-form input{
+    padding: 6px;
+}
+
+.btnEnviar{
+    background-color: royalblue;
+    margin-bottom: 30px;
+    border : 1px solid black;
+    transition: all .6s;
+}
+.btnEnviar:hover{
+    color: white;
+    background-color: rgb(33, 83, 233);
+}
